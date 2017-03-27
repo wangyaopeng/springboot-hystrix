@@ -1,1 +1,1 @@
-≤‚ ‘springboot∫Õhystrix
+demo for springboot and hystrix by hzwangyaopeng@qq.com
